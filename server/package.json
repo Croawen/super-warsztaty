@@ -18,7 +18,7 @@
     "@nestjs/core": "^6.2.4",
     "@nestjs/platform-express": "^6.2.4",
     "@nestjs/swagger": "~3.0.2",
-    "acorn": "~6.1.1",
+    "acorn": "~6.4.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
     "date-fns": "^1.30.1",
